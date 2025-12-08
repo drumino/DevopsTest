@@ -1,4 +1,1 @@
-FROM alpine
-RUN apk add openjdk21
-EXPOSE 80
-CMD "java"
+
